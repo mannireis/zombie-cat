@@ -9,5 +9,5 @@ Sizes:
 		Tamanho do eixo: aprox. 3x10mm (Dia.* L)
 	- ESC 1 size
 		32x12x4mm
-	- ESC 2 sie
+	- ESC 2 size
 		24x45mm 
