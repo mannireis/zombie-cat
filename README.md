@@ -1,2 +1,1 @@
-# zombie-cat
-A antweight battle bot
+#zombie-cat
