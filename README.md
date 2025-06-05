@@ -2,7 +2,7 @@
 
 
 Sizes:
-	- Battery:  45*20*11.5mm
+	- Battery:  45 * 20 * 11.5mm
 	- Weapon Motor: ![image](https://github.com/user-attachments/assets/b7e85d88-50e0-481c-9381-31ef681a2d9d)
 	- Motors: 
 		Tamanho do motor: aprox.12 x 24mm (Dia.* H)
