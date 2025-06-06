@@ -6,7 +6,7 @@ created_at: "2025-06-05"
 ---
 
 
-Jun 5 -- 5 hours
+## Jun 5 -- 5 hours
 
 Made 3D models for the motors and ESC's ill be using:
 
@@ -14,7 +14,7 @@ Made 3D models for the motors and ESC's ill be using:
 
 And drew a version of how i want to make it in paper!
 
-Jun 6 -- 2 hours
+## Jun 6 -- 2 hours
 
 Started making the weapon and almost finalized it!
 
